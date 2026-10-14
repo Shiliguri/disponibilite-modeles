@@ -1,0 +1,31 @@
+{
+  "run_hours_utc": [
+    0,
+    3,
+    6,
+    9,
+    12,
+    18
+  ],
+  "milestones_hours": [
+    1,
+    24,
+    51
+  ],
+  "bbox": [
+    1.575,
+    1.675,
+    42.925,
+    43.025
+  ],
+  "lookback_hours": 36,
+  "request_spacing_seconds": 0.7,
+  "models": {
+    "ARO": {
+      "wcs_url": "https://public-api.meteofrance.fr/public/arome/1.0/wcs/MF-NWP-HIGHRES-AROME-001-FRANCE-WCS"
+    },
+    "ARO-CEP": {
+      "wcs_url": "https://public-api.meteofrance.fr/public/arome/1.0/wcs/MF-NWP-HIGHRES-AROMEIFS-0025-FRANCE-WCS"
+    }
+  }
+}
