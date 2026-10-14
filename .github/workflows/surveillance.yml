@@ -1,8 +1,12 @@
 name: Disponibilite ARO et ARO-CEP
 on:
   schedule:
-    - cron: '2-59/5 * * * *'
+    - cron: '2,7,12,17,22,27,32,37,42,47,52,57 * * * *'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/surveillance.yml'
 permissions:
   contents: write
 concurrency:
@@ -13,6 +17,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
+      - name: Identifier le declenchement
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          echo "Evenement GitHub : $EVENT_NAME"
+          date -u '+Depart reel : %Y-%m-%d %H:%M:%S UTC'
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
