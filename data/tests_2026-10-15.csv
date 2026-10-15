@@ -2522,3 +2522,29 @@ test_start_utc,test_end_utc,model,run_utc,milestone,status,http_status,detail
 2026-10-15T10:20:42Z,2026-10-15T10:20:42Z,ARO-CEP,2026-10-15T09:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
 2026-10-15T10:20:42Z,2026-10-15T10:20:42Z,ARO-CEP,2026-10-15T09:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
 2026-10-15T10:20:42Z,2026-10-15T10:20:42Z,ARO-CEP,2026-10-15T09:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-15T10:25:37Z,2026-10-15T10:25:38Z,ARO,2026-10-15T06:00:00Z,24,INDETERMINE,404,Erreur HTTP ou réponse non GRIB.
+2026-10-15T10:25:38Z,2026-10-15T10:25:38Z,ARO,2026-10-15T06:00:00Z,51,INDETERMINE,404,Erreur HTTP ou réponse non GRIB.
+2026-10-15T10:25:27Z,2026-10-15T10:25:37Z,ARO,2026-10-15T09:00:00Z,catalogue,ABSENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-10-15T10:25:27Z,2026-10-15T10:25:37Z,ARO,2026-10-15T09:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-15T10:25:27Z,2026-10-15T10:25:37Z,ARO,2026-10-15T09:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-15T10:25:27Z,2026-10-15T10:25:37Z,ARO,2026-10-15T09:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-14T03:00:00Z,catalogue,ABSENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-14T03:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-14T03:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-14T03:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-14T09:00:00Z,catalogue,ABSENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-14T09:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-14T09:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-14T09:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-15T03:00:00Z,catalogue,ABSENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-15T03:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-15T03:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-15T03:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-15T06:00:00Z,catalogue,ABSENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-15T06:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-15T06:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-15T06:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-15T09:00:00Z,catalogue,ABSENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-15T09:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-15T09:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-15T10:25:38Z,2026-10-15T10:25:39Z,ARO-CEP,2026-10-15T09:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
