@@ -447,3 +447,17 @@ test_start_utc,test_end_utc,model,run_utc,milestone,status,http_status,detail
 2026-10-20T02:01:03Z,2026-10-20T02:01:03Z,ARO-CEP,2026-10-20T00:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
 2026-10-20T02:01:03Z,2026-10-20T02:01:03Z,ARO-CEP,2026-10-20T00:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
 2026-10-20T02:01:03Z,2026-10-20T02:01:03Z,ARO-CEP,2026-10-20T00:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-20T02:05:26Z,2026-10-20T02:05:51Z,ARO,2026-10-20T00:00:00Z,24,INDETERMINE,0,Catalogue non valide ; aucune absence déduite.
+2026-10-20T02:05:26Z,2026-10-20T02:05:51Z,ARO,2026-10-20T00:00:00Z,51,INDETERMINE,0,Catalogue non valide ; aucune absence déduite.
+2026-10-20T02:05:51Z,2026-10-20T02:06:16Z,ARO-CEP,2026-10-19T03:00:00Z,catalogue,INDETERMINE,0,Catalogue non valide ; aucune absence déduite.
+2026-10-20T02:05:51Z,2026-10-20T02:06:16Z,ARO-CEP,2026-10-19T03:00:00Z,1,INDETERMINE,0,Catalogue non valide ; aucune absence déduite.
+2026-10-20T02:05:51Z,2026-10-20T02:06:16Z,ARO-CEP,2026-10-19T03:00:00Z,24,INDETERMINE,0,Catalogue non valide ; aucune absence déduite.
+2026-10-20T02:05:51Z,2026-10-20T02:06:16Z,ARO-CEP,2026-10-19T03:00:00Z,51,INDETERMINE,0,Catalogue non valide ; aucune absence déduite.
+2026-10-20T02:05:51Z,2026-10-20T02:06:16Z,ARO-CEP,2026-10-19T09:00:00Z,catalogue,INDETERMINE,0,Catalogue non valide ; aucune absence déduite.
+2026-10-20T02:05:51Z,2026-10-20T02:06:16Z,ARO-CEP,2026-10-19T09:00:00Z,1,INDETERMINE,0,Catalogue non valide ; aucune absence déduite.
+2026-10-20T02:05:51Z,2026-10-20T02:06:16Z,ARO-CEP,2026-10-19T09:00:00Z,24,INDETERMINE,0,Catalogue non valide ; aucune absence déduite.
+2026-10-20T02:05:51Z,2026-10-20T02:06:16Z,ARO-CEP,2026-10-19T09:00:00Z,51,INDETERMINE,0,Catalogue non valide ; aucune absence déduite.
+2026-10-20T02:05:51Z,2026-10-20T02:06:16Z,ARO-CEP,2026-10-20T00:00:00Z,catalogue,INDETERMINE,0,Catalogue non valide ; aucune absence déduite.
+2026-10-20T02:05:51Z,2026-10-20T02:06:16Z,ARO-CEP,2026-10-20T00:00:00Z,1,INDETERMINE,0,Catalogue non valide ; aucune absence déduite.
+2026-10-20T02:05:51Z,2026-10-20T02:06:16Z,ARO-CEP,2026-10-20T00:00:00Z,24,INDETERMINE,0,Catalogue non valide ; aucune absence déduite.
+2026-10-20T02:05:51Z,2026-10-20T02:06:16Z,ARO-CEP,2026-10-20T00:00:00Z,51,INDETERMINE,0,Catalogue non valide ; aucune absence déduite.
