@@ -3172,3 +3172,33 @@ test_start_utc,test_end_utc,model,run_utc,milestone,status,http_status,detail
 2026-10-25T12:20:36Z,2026-10-25T12:20:37Z,ARO-CEP,2026-10-25T12:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
 2026-10-25T12:20:36Z,2026-10-25T12:20:37Z,ARO-CEP,2026-10-25T12:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
 2026-10-25T12:20:36Z,2026-10-25T12:20:37Z,ARO-CEP,2026-10-25T12:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-25T12:25:28Z,2026-10-25T12:25:28Z,ARO,2026-10-25T09:00:00Z,24,INDETERMINE,404,Erreur HTTP ou réponse non GRIB.
+2026-10-25T12:25:29Z,2026-10-25T12:25:29Z,ARO,2026-10-25T09:00:00Z,51,INDETERMINE,404,Erreur HTTP ou réponse non GRIB.
+2026-10-25T12:25:26Z,2026-10-25T12:25:27Z,ARO,2026-10-25T12:00:00Z,catalogue,ABSENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-10-25T12:25:26Z,2026-10-25T12:25:27Z,ARO,2026-10-25T12:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-25T12:25:26Z,2026-10-25T12:25:27Z,ARO,2026-10-25T12:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-25T12:25:26Z,2026-10-25T12:25:27Z,ARO,2026-10-25T12:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-24T03:00:00Z,catalogue,ABSENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-24T03:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-24T03:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-24T03:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-24T09:00:00Z,catalogue,ABSENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-24T09:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-24T09:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-24T09:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-25T03:00:00Z,catalogue,ABSENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-25T03:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-25T03:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-25T03:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-25T06:00:00Z,catalogue,PRESENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-10-25T12:25:50Z,2026-10-25T12:25:51Z,ARO-CEP,2026-10-25T06:00:00Z,1,PRESENT,200,"GRIB RR1h validé : réseau, échéance, intervalle, domaine et valeurs."
+2026-10-25T12:25:52Z,2026-10-25T12:25:52Z,ARO-CEP,2026-10-25T06:00:00Z,24,INDETERMINE,404,Erreur HTTP ou réponse non GRIB.
+2026-10-25T12:25:52Z,2026-10-25T12:25:53Z,ARO-CEP,2026-10-25T06:00:00Z,51,INDETERMINE,404,Erreur HTTP ou réponse non GRIB.
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-25T09:00:00Z,catalogue,ABSENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-25T09:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-25T09:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-25T09:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-25T12:00:00Z,catalogue,ABSENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-25T12:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-25T12:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-10-25T12:25:29Z,2026-10-25T12:25:50Z,ARO-CEP,2026-10-25T12:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
