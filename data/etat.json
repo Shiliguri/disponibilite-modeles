@@ -16814,9 +16814,9 @@
       "milestone": "catalogue",
       "first_test": "2026-11-14T08:03:26Z",
       "first_present": null,
-      "last_absent": "2026-11-14T19:39:14Z",
+      "last_absent": "2026-11-14T23:22:16Z",
       "last_status": "ABSENT",
-      "last_test": "2026-11-14T19:39:15Z",
+      "last_test": "2026-11-14T23:22:16Z",
       "precision_min": null
     },
     "ARO-CEP|2026-11-14T03:00:00Z|1": {
@@ -16825,9 +16825,9 @@
       "milestone": 1,
       "first_test": "2026-11-14T08:03:26Z",
       "first_present": null,
-      "last_absent": "2026-11-14T19:39:14Z",
+      "last_absent": "2026-11-14T23:22:16Z",
       "last_status": "ABSENT",
-      "last_test": "2026-11-14T19:39:15Z",
+      "last_test": "2026-11-14T23:22:16Z",
       "precision_min": null
     },
     "ARO-CEP|2026-11-14T03:00:00Z|24": {
@@ -16836,9 +16836,9 @@
       "milestone": 24,
       "first_test": "2026-11-14T08:03:26Z",
       "first_present": null,
-      "last_absent": "2026-11-14T19:39:14Z",
+      "last_absent": "2026-11-14T23:22:16Z",
       "last_status": "ABSENT",
-      "last_test": "2026-11-14T19:39:15Z",
+      "last_test": "2026-11-14T23:22:16Z",
       "precision_min": null
     },
     "ARO-CEP|2026-11-14T03:00:00Z|51": {
@@ -16847,9 +16847,9 @@
       "milestone": 51,
       "first_test": "2026-11-14T08:03:26Z",
       "first_present": null,
-      "last_absent": "2026-11-14T19:39:14Z",
+      "last_absent": "2026-11-14T23:22:16Z",
       "last_status": "ABSENT",
-      "last_test": "2026-11-14T19:39:15Z",
+      "last_test": "2026-11-14T23:22:16Z",
       "precision_min": null
     },
     "ARO-CEP|2026-11-14T06:00:00Z|catalogue": {
@@ -16990,9 +16990,9 @@
       "milestone": "catalogue",
       "first_test": "2026-11-14T14:57:07Z",
       "first_present": null,
-      "last_absent": "2026-11-14T19:39:14Z",
+      "last_absent": "2026-11-14T23:22:16Z",
       "last_status": "ABSENT",
-      "last_test": "2026-11-14T19:39:15Z",
+      "last_test": "2026-11-14T23:22:16Z",
       "precision_min": null
     },
     "ARO-CEP|2026-11-14T09:00:00Z|1": {
@@ -17001,9 +17001,9 @@
       "milestone": 1,
       "first_test": "2026-11-14T14:57:07Z",
       "first_present": null,
-      "last_absent": "2026-11-14T19:39:14Z",
+      "last_absent": "2026-11-14T23:22:16Z",
       "last_status": "ABSENT",
-      "last_test": "2026-11-14T19:39:15Z",
+      "last_test": "2026-11-14T23:22:16Z",
       "precision_min": null
     },
     "ARO-CEP|2026-11-14T09:00:00Z|24": {
@@ -17012,9 +17012,9 @@
       "milestone": 24,
       "first_test": "2026-11-14T14:57:07Z",
       "first_present": null,
-      "last_absent": "2026-11-14T19:39:14Z",
+      "last_absent": "2026-11-14T23:22:16Z",
       "last_status": "ABSENT",
-      "last_test": "2026-11-14T19:39:15Z",
+      "last_test": "2026-11-14T23:22:16Z",
       "precision_min": null
     },
     "ARO-CEP|2026-11-14T09:00:00Z|51": {
@@ -17023,9 +17023,9 @@
       "milestone": 51,
       "first_test": "2026-11-14T14:57:07Z",
       "first_present": null,
-      "last_absent": "2026-11-14T19:39:14Z",
+      "last_absent": "2026-11-14T23:22:16Z",
       "last_status": "ABSENT",
-      "last_test": "2026-11-14T19:39:15Z",
+      "last_test": "2026-11-14T23:22:16Z",
       "precision_min": null
     },
     "ARO-CEP|2026-11-14T12:00:00Z|catalogue": {
@@ -17077,44 +17077,44 @@
       "run": "2026-11-14T18:00:00Z",
       "milestone": "catalogue",
       "first_test": "2026-11-14T19:39:11Z",
-      "first_present": null,
+      "first_present": "2026-11-14T23:22:12Z",
       "last_absent": "2026-11-14T19:39:11Z",
-      "last_status": "ABSENT",
-      "last_test": "2026-11-14T19:39:12Z",
-      "precision_min": null
+      "last_status": "PRESENT",
+      "last_test": "2026-11-14T23:22:12Z",
+      "precision_min": 223.01666666666668
     },
     "ARO|2026-11-14T18:00:00Z|1": {
       "model": "ARO",
       "run": "2026-11-14T18:00:00Z",
       "milestone": 1,
       "first_test": "2026-11-14T19:39:11Z",
-      "first_present": null,
+      "first_present": "2026-11-14T23:22:13Z",
       "last_absent": "2026-11-14T19:39:11Z",
-      "last_status": "ABSENT",
-      "last_test": "2026-11-14T19:39:12Z",
-      "precision_min": null
+      "last_status": "PRESENT",
+      "last_test": "2026-11-14T23:22:13Z",
+      "precision_min": 223.03333333333333
     },
     "ARO|2026-11-14T18:00:00Z|24": {
       "model": "ARO",
       "run": "2026-11-14T18:00:00Z",
       "milestone": 24,
       "first_test": "2026-11-14T19:39:11Z",
-      "first_present": null,
+      "first_present": "2026-11-14T23:22:15Z",
       "last_absent": "2026-11-14T19:39:11Z",
-      "last_status": "ABSENT",
-      "last_test": "2026-11-14T19:39:12Z",
-      "precision_min": null
+      "last_status": "PRESENT",
+      "last_test": "2026-11-14T23:22:15Z",
+      "precision_min": 223.06666666666666
     },
     "ARO|2026-11-14T18:00:00Z|51": {
       "model": "ARO",
       "run": "2026-11-14T18:00:00Z",
       "milestone": 51,
       "first_test": "2026-11-14T19:39:11Z",
-      "first_present": null,
+      "first_present": "2026-11-14T23:22:16Z",
       "last_absent": "2026-11-14T19:39:11Z",
-      "last_status": "ABSENT",
-      "last_test": "2026-11-14T19:39:12Z",
-      "precision_min": null
+      "last_status": "PRESENT",
+      "last_test": "2026-11-14T23:22:16Z",
+      "precision_min": 223.08333333333334
     },
     "ARO-CEP|2026-11-14T18:00:00Z|catalogue": {
       "model": "ARO-CEP",
@@ -17122,9 +17122,9 @@
       "milestone": "catalogue",
       "first_test": "2026-11-14T19:39:14Z",
       "first_present": null,
-      "last_absent": "2026-11-14T19:39:14Z",
+      "last_absent": "2026-11-14T23:22:16Z",
       "last_status": "ABSENT",
-      "last_test": "2026-11-14T19:39:15Z",
+      "last_test": "2026-11-14T23:22:16Z",
       "precision_min": null
     },
     "ARO-CEP|2026-11-14T18:00:00Z|1": {
@@ -17133,9 +17133,9 @@
       "milestone": 1,
       "first_test": "2026-11-14T19:39:14Z",
       "first_present": null,
-      "last_absent": "2026-11-14T19:39:14Z",
+      "last_absent": "2026-11-14T23:22:16Z",
       "last_status": "ABSENT",
-      "last_test": "2026-11-14T19:39:15Z",
+      "last_test": "2026-11-14T23:22:16Z",
       "precision_min": null
     },
     "ARO-CEP|2026-11-14T18:00:00Z|24": {
@@ -17144,9 +17144,9 @@
       "milestone": 24,
       "first_test": "2026-11-14T19:39:14Z",
       "first_present": null,
-      "last_absent": "2026-11-14T19:39:14Z",
+      "last_absent": "2026-11-14T23:22:16Z",
       "last_status": "ABSENT",
-      "last_test": "2026-11-14T19:39:15Z",
+      "last_test": "2026-11-14T23:22:16Z",
       "precision_min": null
     },
     "ARO-CEP|2026-11-14T18:00:00Z|51": {
@@ -17155,9 +17155,9 @@
       "milestone": 51,
       "first_test": "2026-11-14T19:39:14Z",
       "first_present": null,
-      "last_absent": "2026-11-14T19:39:14Z",
+      "last_absent": "2026-11-14T23:22:16Z",
       "last_status": "ABSENT",
-      "last_test": "2026-11-14T19:39:15Z",
+      "last_test": "2026-11-14T23:22:16Z",
       "precision_min": null
     }
   },
@@ -17179,5 +17179,5 @@
       18
     ]
   },
-  "last_cycle": "2026-11-14T19:39:17Z"
+  "last_cycle": "2026-11-14T23:22:16Z"
 }
