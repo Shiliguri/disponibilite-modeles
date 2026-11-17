@@ -27,3 +27,36 @@ test_start_utc,test_end_utc,model,run_utc,milestone,status,http_status,detail
 2026-11-17T01:02:07Z,2026-11-17T01:02:12Z,ARO-CEP,2026-11-17T00:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
 2026-11-17T01:02:07Z,2026-11-17T01:02:12Z,ARO-CEP,2026-11-17T00:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
 2026-11-17T01:02:07Z,2026-11-17T01:02:12Z,ARO-CEP,2026-11-17T00:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-11-17T08:59:06Z,2026-11-17T08:59:07Z,ARO,2026-11-17T00:00:00Z,catalogue,PRESENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-11-17T08:59:07Z,2026-11-17T08:59:08Z,ARO,2026-11-17T00:00:00Z,1,PRESENT,200,"GRIB RR1h validé : réseau, échéance, intervalle, domaine et valeurs."
+2026-11-17T08:59:09Z,2026-11-17T08:59:09Z,ARO,2026-11-17T00:00:00Z,24,PRESENT,200,"GRIB RR1h validé : réseau, échéance, intervalle, domaine et valeurs."
+2026-11-17T08:59:10Z,2026-11-17T08:59:11Z,ARO,2026-11-17T00:00:00Z,51,PRESENT,200,"GRIB RR1h validé : réseau, échéance, intervalle, domaine et valeurs."
+2026-11-17T08:59:06Z,2026-11-17T08:59:07Z,ARO,2026-11-17T03:00:00Z,catalogue,PRESENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-11-17T08:59:11Z,2026-11-17T08:59:12Z,ARO,2026-11-17T03:00:00Z,1,PRESENT,200,"GRIB RR1h validé : réseau, échéance, intervalle, domaine et valeurs."
+2026-11-17T08:59:12Z,2026-11-17T08:59:13Z,ARO,2026-11-17T03:00:00Z,24,PRESENT,200,"GRIB RR1h validé : réseau, échéance, intervalle, domaine et valeurs."
+2026-11-17T08:59:14Z,2026-11-17T08:59:14Z,ARO,2026-11-17T03:00:00Z,51,PRESENT,200,"GRIB RR1h validé : réseau, échéance, intervalle, domaine et valeurs."
+2026-11-17T08:59:06Z,2026-11-17T08:59:07Z,ARO,2026-11-17T06:00:00Z,catalogue,ABSENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-11-17T08:59:06Z,2026-11-17T08:59:07Z,ARO,2026-11-17T06:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-11-17T08:59:06Z,2026-11-17T08:59:07Z,ARO,2026-11-17T06:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-11-17T08:59:06Z,2026-11-17T08:59:07Z,ARO,2026-11-17T06:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-11-17T08:59:14Z,2026-11-17T08:59:14Z,ARO-CEP,2026-11-16T03:00:00Z,catalogue,ABSENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-11-17T08:59:14Z,2026-11-17T08:59:14Z,ARO-CEP,2026-11-16T03:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-11-17T08:59:14Z,2026-11-17T08:59:14Z,ARO-CEP,2026-11-16T03:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-11-17T08:59:14Z,2026-11-17T08:59:14Z,ARO-CEP,2026-11-16T03:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-11-17T08:59:14Z,2026-11-17T08:59:14Z,ARO-CEP,2026-11-16T09:00:00Z,catalogue,ABSENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-11-17T08:59:14Z,2026-11-17T08:59:14Z,ARO-CEP,2026-11-16T09:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-11-17T08:59:14Z,2026-11-17T08:59:14Z,ARO-CEP,2026-11-16T09:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-11-17T08:59:14Z,2026-11-17T08:59:14Z,ARO-CEP,2026-11-16T09:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-11-17T08:59:15Z,2026-11-17T08:59:15Z,ARO-CEP,2026-11-16T18:00:00Z,51,PRESENT,200,"GRIB RR1h validé : réseau, échéance, intervalle, domaine et valeurs."
+2026-11-17T08:59:14Z,2026-11-17T08:59:14Z,ARO-CEP,2026-11-17T00:00:00Z,catalogue,PRESENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-11-17T08:59:16Z,2026-11-17T08:59:16Z,ARO-CEP,2026-11-17T00:00:00Z,1,PRESENT,200,"GRIB RR1h validé : réseau, échéance, intervalle, domaine et valeurs."
+2026-11-17T08:59:17Z,2026-11-17T08:59:17Z,ARO-CEP,2026-11-17T00:00:00Z,24,PRESENT,200,"GRIB RR1h validé : réseau, échéance, intervalle, domaine et valeurs."
+2026-11-17T08:59:18Z,2026-11-17T08:59:18Z,ARO-CEP,2026-11-17T00:00:00Z,51,PRESENT,200,"GRIB RR1h validé : réseau, échéance, intervalle, domaine et valeurs."
+2026-11-17T08:59:14Z,2026-11-17T08:59:14Z,ARO-CEP,2026-11-17T03:00:00Z,catalogue,ABSENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-11-17T08:59:14Z,2026-11-17T08:59:14Z,ARO-CEP,2026-11-17T03:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-11-17T08:59:14Z,2026-11-17T08:59:14Z,ARO-CEP,2026-11-17T03:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-11-17T08:59:14Z,2026-11-17T08:59:14Z,ARO-CEP,2026-11-17T03:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-11-17T08:59:14Z,2026-11-17T08:59:14Z,ARO-CEP,2026-11-17T06:00:00Z,catalogue,ABSENT,200,"Catalogue RR1h, pas une preuve de téléchargeabilité."
+2026-11-17T08:59:14Z,2026-11-17T08:59:14Z,ARO-CEP,2026-11-17T06:00:00Z,1,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-11-17T08:59:14Z,2026-11-17T08:59:14Z,ARO-CEP,2026-11-17T06:00:00Z,24,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
+2026-11-17T08:59:14Z,2026-11-17T08:59:14Z,ARO-CEP,2026-11-17T06:00:00Z,51,ABSENT,200,RR1h du réseau non annoncée dans le catalogue valide.
